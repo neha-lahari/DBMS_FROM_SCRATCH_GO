@@ -1,0 +1,16 @@
+# Database files
+*.db
+
+# Go build/test files
+*.exe
+*.out
+*.test
+
+# Environment/secrets
+.env
+.env.*
+
+# OS/editor files
+.DS_Store
+Thumbs.db
+.vscode/
